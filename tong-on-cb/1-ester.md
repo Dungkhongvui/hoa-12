@@ -10,75 +10,84 @@
 ```mermaid
 mindmap
   root((ESTER))
-    1. Khái niệm và công thức
-      Dẫn xuất của acid carboxylic
-      Công thức chung RCOOR'
-      Ester no đơn chức mạch hở CnH2nO2
+    1. Khái niệm, CTCT, CTPT
+
     2. Danh pháp
-      Tên gốc R'
-      Tên gốc acid đổi ic acid thành ate
-      Ví dụ ethyl acetate
+
     3. Tính chất vật lí
-      Mùi thơm
-      Ít tan trong nước
-      Nhiệt độ sôi thấp hơn acid
+      
     4. Tính chất hóa học
-      Thủy phân trong acid
-      Thủy phân trong kiềm
-      Phản ứng ở gốc hydrocarbon
+      
     5. Điều chế
-      Acid carboxylic cộng alcohol
-      Xúc tác H2SO4 đặc
-      Một số cách điều chế đặc biệt
-    6. Dạng bài và dấu hiệu
-      Nhận biết công thức
-      Xà phòng hóa
-      Đốt cháy
-      Ester phenol
-      Lipid và chất béo
-    7. Lỗi sai thường gặp
-      Nhầm chiều phản ứng
-      Quên số mol NaOH
-      Nhầm tên ester
+      
 ```
 
 ---
 
-## 1. Khái niệm và công thức chung
+## 1. Khái niệm, CTCT, CTPT
 
 ### 1.1. Ester là gì?
 
-Ester là dẫn xuất của acid carboxylic, trong đó nguyên tử H của nhóm `-COOH` được thay bằng gốc hydrocarbon.
+- Ester = thay -OH của nhóm `-COOH` bằng -OR'.
 
-Công thức cấu tạo chung của ester đơn chức:
-
-$$
-\mathrm{RCOO}R'
-$$
-
-Trong đó:
-
-- `R` là gốc hydrocarbon hoặc H.
-- `R'` là gốc hydrocarbon.
 - Nhóm chức đặc trưng của ester là `-COO-`.
 
-### 1.2. Công thức phân tử thường gặp
+### 1.2. Công thức phân tử 
 
-Với ester no, đơn chức, mạch hở:
+- HCHC C,H,O bất kỳ: 
+
+$$
+\mathrm{C_nH_{2n+2-2k}O_x}
+$$
+
+trong đó: k = độ bất bão hòa = pi + vòng = (2C + 2 - H + N)/2
+ (Quan trọng cho việc chuyển đổi CTPT và CTCT) 
+
+**Ví dụ**: ester no, đơn chức, mạch hở: no (pi = 0), đơn chức (1 COO), mạch hở (vòng = 0) nên k = 0 + 1 + 0 = 1
 
 $$
 \mathrm{C_nH_{2n}O_2}\quad (n \ge 2)
+$$ 
+
+**Ví dụ**: ester ko no, hai chức, mạch hở, 1 pi C=C: 1 pi C=C (pi = 1), đơn chức (2 COO), mạch hở (vòng = 0) nên k = 1 + 2 + 0 = 3 
+
+$$
+\mathrm{C_nH_{2n-4}O_4}\quad (n \ge 4)
+$$ 
+
+### 1.3 Công thức cấu tạo
+
+- Thường từ công thức phân tử suy ra công thức câu tạo (viết đồng phân) theo các bước:
+
+  - B1: Tính k 
+  - B2: Dựa theo số O (có thể cả số N) và k ở B1 để suy ra nhóm chức tiềm năng
+  - B3: Viết mạch C (thẳng, nhánh) rồi điền nhóm chức vào (Với các nhóm chức chứa C như COO, COOH, CHO thì nên viết nhóm chức trước)
+
+**Ví dụ**: Viết đồng phân $\mathrm{C_4H_6O_2}$
+- Bước 1: $k = \frac{2*4+2-6}{2} = 2$ 
+- Bước 2: Dựa vào $O_2$ nên có các trường hợp: 1 COO hoặc (1 OH và 1 CHO)
+Nếu ta chỉ xét ester thì chắc chắn là 1 COO
+- Bước 3: 
+
+Cấu trúc este chung: $\mathrm{...-COO-...}$
+
+Các trường hợp:
+
+$$
+\mathrm{H-COO-C_3H_7} \quad (2)
 $$
 
-Ví dụ:
+$$
+\mathrm{CH_3-COO-C_2H_5} \quad (1)
+$$
 
-| Ester | Công thức | Tên thường gặp |
-|---|---:|---|
-| Methyl formate | $\mathrm{HCOOCH_3}$ | methyl methanoate |
-| Methyl acetate | $\mathrm{CH_3COOCH_3}$ | methyl ethanoate |
-| Ethyl acetate | $\mathrm{CH_3COOC_2H_5}$ | ethyl ethanoate |
+$$
+\mathrm{C_2H_5-COO-CH_3} \quad (1)
+$$
 
----
+Vậy có 4 đồng phân.
+
+- Trường hợp từ công thức cấu tạo tổng quát suy ngược lại công thức phân tử ta đi theo trình tự: Đếm C $\rightarrow$ Đếm O, N(nếu có) --> Đếm k = pi + vòng --> Suy ra H cuối cùng với H = (2C + 2 + N - 2k)/2
 
 ## 2. Danh pháp ester
 
@@ -298,306 +307,7 @@ Một số ester đặc biệt có thể điều chế từ:
 
 ---
 
-## 6. Dạng bài tập và dấu hiệu xử lý nhanh
 
-### 6.1. Dạng 1 - Nhận diện ester qua công thức
+-
 
-Dấu hiệu nhận biết ester:
-
-- Có nhóm `-COO-` nằm giữa hai phần carbon.
-- Không có H linh động của nhóm `-COOH`.
-- Công thức no đơn chức mạch hở thường là $\mathrm{C_nH_{2n}O_2}$.
-
-Câu hỏi thường gặp:
-
-- Chất nào là ester?
-- Chất nào không phải ester?
-- Chất nào có đồng phân ester?
-
-### 6.2. Dạng 2 - Gọi tên ester
-
-Quy trình:
-
-1. Tách ester theo khung `RCOO | R'`.
-2. Đọc tên gốc `R'` trước.
-3. Đọc tên gốc acid `RCOO-` sau.
-
-Ví dụ:
-
-$$
-\mathrm{CH_3CH_2COOCH_3}
-$$
-
-Tách:
-
-```text
-CH3CH2COO- | CH3
-```
-
-Tên:
-
-```text
-methyl propionate / methyl propanoate
-```
-
-### 6.3. Dạng 3 - Xà phòng hóa ester đơn chức
-
-Với ester đơn chức thông thường:
-
-$$
-1\,\text{mol ester} : 1\,\text{mol NaOH}
-$$
-
-Sơ đồ tư duy nhanh:
-
-```text
-Ester + NaOH -> muối + alcohol
-```
-
-Từ muối tìm phần acid.  
-Từ alcohol tìm phần gốc R'.
-
-### 6.4. Dạng 4 - Ester của phenol
-
-Dấu hiệu:
-
-```text
-RCOOC6H5 hoặc RCOO-Ar
-```
-
-Tư duy nhanh:
-
-```text
-Ester phenol + NaOH dư -> muối carboxylate + muối phenolate + H2O
-```
-
-Tỉ lệ thường gặp:
-
-$$
-1\,\text{mol ester phenol} : 2\,\text{mol NaOH}
-$$
-
-### 6.5. Dạng 5 - Đốt cháy ester
-
-Với ester no, đơn chức, mạch hở:
-
-$$
-\mathrm{C_nH_{2n}O_2}
-$$
-
-Khi đốt cháy:
-
-$$
- n_{\mathrm{CO_2}} = n_{\mathrm{H_2O}}
-$$
-
-Dấu hiệu này giúp nhận biết nhanh ester no đơn chức mạch hở hoặc acid carboxylic no đơn chức mạch hở.
-
-### 6.6. Dạng 6 - Bảo toàn khối lượng trong thủy phân
-
-Với phản ứng xà phòng hóa:
-
-$$
-\mathrm{Ester + NaOH \rightarrow muối + alcohol}
-$$
-
-Có thể dùng bảo toàn khối lượng:
-
-$$
- m_{\text{ester}} + m_{\mathrm{NaOH}} = m_{\text{muối}} + m_{\text{alcohol}}
-$$
-
-Dùng khi đề cho khối lượng hỗn hợp, lượng NaOH, khối lượng muối hoặc alcohol.
-
----
-
-## 7. Liên hệ với lipid và chất béo
-
-### 7.1. Chất béo là gì?
-
-Chất béo là triester của glycerol với acid béo.
-
-Công thức tổng quát:
-
-$$
-\mathrm{C_3H_5(OOCR)_3}
-$$
-
-### 7.2. Thủy phân chất béo trong môi trường kiềm
-
-Phản ứng tổng quát:
-
-$$
-\mathrm{C_3H_5(OOCR)_3 + 3NaOH}
-\rightarrow
-\mathrm{C_3H_5(OH)_3 + 3RCOONa}
-$$
-
-Sản phẩm:
-
-- Glycerol.
-- Muối sodium của acid béo, chính là xà phòng.
-
-### 7.3. Dầu mỡ và phản ứng hydrogen hóa
-
-Dầu thực vật thường chứa gốc acid béo không no. Khi hydrogen hóa:
-
-$$
-\mathrm{C=C + H_2 \rightarrow C-C}
-$$
-
-Kết quả:
-
-- Làm giảm độ không no.
-- Có thể chuyển dầu lỏng thành mỡ rắn hơn.
-
----
-
-## 8. Lỗi sai thường gặp
-
-### 8.1. Nhầm thủy phân acid và thủy phân kiềm
-
-| Môi trường | Chiều phản ứng | Sản phẩm chính |
-|---|---|---|
-| Acid | Thuận nghịch | Acid + alcohol |
-| Kiềm | Một chiều | Muối + alcohol |
-
-### 8.2. Quên ester phenol dùng 2 mol NaOH
-
-Ester thường:
-
-$$
-1\,\text{ester} : 1\,\mathrm{NaOH}
-$$
-
-Ester của phenol:
-
-$$
-1\,\text{ester} : 2\,\mathrm{NaOH}
-$$
-
-### 8.3. Nhầm tên gốc alcohol và gốc acid
-
-Cần nhớ:
-
-```text
-RCOOR'
-```
-
-- Đọc `R'` trước.
-- Đọc `RCOO-` sau.
-
-Ví dụ:
-
-$$
-\mathrm{CH_3COOC_2H_5}
-$$
-
-Không đọc là methyl propionate.  
-Đúng là ethyl acetate.
-
-### 8.4. Nhầm ester với acid carboxylic
-
-Acid carboxylic có nhóm:
-
-```text
--COOH
-```
-
-Ester có nhóm:
-
-```text
--COO-
-```
-
-Ester không làm quỳ tím hóa đỏ như acid carboxylic thông thường.
-
----
-
-## 9. Checklist ôn tập nhanh
-
-### 9.1. Cần nhớ chắc
-
-- [ ] Công thức chung ester đơn chức: $\mathrm{RCOO}R'$.
-- [ ] Ester no đơn chức mạch hở: $\mathrm{C_nH_{2n}O_2}$.
-- [ ] Tên ester: gốc alcohol trước, gốc acid sau.
-- [ ] Thủy phân acid là thuận nghịch.
-- [ ] Xà phòng hóa là một chiều.
-- [ ] Ester thường dùng 1 mol NaOH.
-- [ ] Ester phenol thường dùng 2 mol NaOH.
-- [ ] Chất béo là triester của glycerol và acid béo.
-
-### 9.2. Công thức phản ứng cần thuộc
-
-Ester hóa:
-
-$$
-\mathrm{RCOOH} + R'\mathrm{OH}
-\rightleftharpoons
-\mathrm{RCOO}R' + \mathrm{H_2O}
-$$
-
-Thủy phân trong acid:
-
-$$
-\mathrm{RCOO}R' + \mathrm{H_2O}
-\rightleftharpoons
-\mathrm{RCOOH} + R'\mathrm{OH}
-$$
-
-Xà phòng hóa:
-
-$$
-\mathrm{RCOO}R' + \mathrm{NaOH}
-\rightarrow
-\mathrm{RCOONa} + R'\mathrm{OH}
-$$
-
-Ester phenol:
-
-$$
-\mathrm{RCOOC_6H_5 + 2NaOH}
-\rightarrow
-\mathrm{RCOONa + C_6H_5ONa + H_2O}
-$$
-
-Chất béo:
-
-$$
-\mathrm{C_3H_5(OOCR)_3 + 3NaOH}
-\rightarrow
-\mathrm{C_3H_5(OH)_3 + 3RCOONa}
-$$
-
----
-
-## 10. Cách học theo sơ đồ tư duy
-
-### 10.1. Lượt 1 - Nắm khung
-
-Học theo thứ tự:
-
-```text
-Khái niệm -> Danh pháp -> Tính chất vật lí -> Tính chất hóa học -> Điều chế -> Dạng bài
-```
-
-### 10.2. Lượt 2 - Gắn công thức phản ứng
-
-Với mỗi nhánh, tự viết lại phản ứng đại diện:
-
-- Ester hóa.
-- Thủy phân acid.
-- Xà phòng hóa.
-- Ester phenol.
-- Chất béo.
-
-### 10.3. Lượt 3 - Luyện nhận diện đề
-
-Khi gặp bài ester, hỏi nhanh 5 câu:
-
-1. Ester thường hay ester phenol?
-2. Đơn chức hay đa chức?
-3. No hay không no?
-4. Thủy phân tạo alcohol hay phenolate?
-5. Dữ kiện đang cần bảo toàn mol, bảo toàn khối lượng hay gọi tên?
 
