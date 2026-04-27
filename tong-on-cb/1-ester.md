@@ -87,13 +87,15 @@ $$
 
 Vậy có 4 đồng phân.
 
-- Trường hợp từ công thức cấu tạo tổng quát suy ngược lại công thức phân tử ta đi theo trình tự: Đếm C $\rightarrow$ Đếm O, N(nếu có) --> Đếm k = pi + vòng --> Suy ra H cuối cùng với H = (2C + 2 + N - 2k)/2
+- Trường hợp từ công thức cấu tạo tổng quát suy ngược lại công thức phân tử ta đi theo trình tự: Đếm C $\rightarrow$ Đếm O, N(nếu có) $\rightarrow$ Đếm k = pi + vòng $\rightarrow$ Suy ra H cuối cùng với H = (2C + 2 + N - 2k)/2
+
+- Lưu ý: R1COOR2 = R2OOCR1 = R2OCOR1 nhưng khác R2COOR1
+
+---
 
 ## 2. Danh pháp ester
 
-### 2.1. Quy tắc gọi tên
-
-Tên ester thường được gọi theo mẫu:
+- Tên gọi của ester được gọi theo tên gốc chức (Không dùng tên IUPAC vì quá phức tạp, không có tên thông thường) vì vậy phụ thuộc chủ yếu vào các gốc và chức tạo nên ester. 
 
 ```text
 Tên gốc alcohol R' + tên gốc acid RCOO
@@ -105,91 +107,77 @@ Trong đó tên acid đổi đuôi:
 -ic acid  ->  -ate
 ```
 
-Ví dụ:
+Do vậy cần phải nhớ tên các gốc và nhớ tên chức (tên chức suy ra từ tên acid)
 
-| Công thức ester | Gốc alcohol | Gốc acid | Tên ester |
-|---|---|---|---|
-| $\mathrm{HCOOCH_3}$ | methyl | formate/methanoate | methyl formate |
-| $\mathrm{CH_3COOC_2H_5}$ | ethyl | acetate/ethanoate | ethyl acetate |
-| $\mathrm{C_2H_5COOCH_3}$ | methyl | propionate/propanoate | methyl propionate |
+- Các gốc phải nhớ
 
-### 2.2. Mẹo đọc nhanh tên ester
+| Công thức gốc | Tên gốc |
+|---|---|
+| `-CH3` | Methyl |
+| `-CH2-CH3` | Ethyl |
+| `-CH2-CH2-CH3` | Propyl |
+| `-CH(CH3)2` | Isopropyl |
+| `-CH2-CH2-CH(CH3)-CH3` | Isoamyl |
+| `-CH=CH2` | Vinyl |
+| `-CH=CH-CH3` | Propenyl |
+| `-C(CH3)=CH2` | Isopropenyl |
+| `-CH2-CH=CH2` | Allyl |
+| `-C6H5` | Phenyl |
+| `-CH2-C6H5` | Benzyl |
 
-Khi nhìn công thức:
+- Các acid phải nhớ (chủ yếu dùng tên thường)
 
-```text
-RCOOR'
-```
+| Công thức acid | Tên thường | Tên IUPAC |
+|---|---|---|
+| `HCOOH` | Formic acid | Methanoic acid |
+| `CH3COOH` | Acetic acid | Ethanoic acid |
+| `C2H5COOH` | Propionic acid | Propanoic acid |
+| `n-C3H7COOH` | Butyric acid | Butanoic acid |
+| `CH2=CH-COOH` | Acrylic acid | Propenoic acid |
+| `CH2=C(CH3)-COOH` | Methacrylic acid | 2-methylpropenoic acid |
+| `C6H5-COOH` | Benzoic acid | Benzenecarboxylic acid |
+| `HOOC-COOH` | Oxalic acid | Ethanedioic acid |
 
-Ta tách thành:
+**Ví dụ**: Gọi tên chất sau: `CH2=C(CH3)-COOCH3`
 
-```text
-RCOO- | R'
-```
+*Gốc* alcohol là gốc gắn với O trong COO $\rightarrow$ `-CH3`: methyl
 
-- Phần bên phải `R'` là tên gốc alcohol.
-- Phần bên trái `RCOO-` là tên gốc acid.
+*Chức* ester được suy ra từ acid tương ứng:
+`CH2=C(CH3)-COOH`: methacrylic acid $\rightarrow$ `CH2=C(CH3)-COO`: methacrylate
 
-Ví dụ:
-
-$$
-\mathrm{CH_3COOC_2H_5}
-$$
-
-Tách:
-
-```text
-CH3COO- | C2H5
-```
-
-Suy ra:
-
-```text
-ethyl acetate / ethyl ethanoate
-```
+Vậy tên gọi là gốc + chức: methyl methacrylate
 
 ---
 
 ## 3. Tính chất vật lí
 
-### 3.1. Mùi và trạng thái
-
-- Nhiều ester có mùi thơm dễ chịu.
-- Một số ester có trong tinh dầu, hương hoa, hương quả.
-- Ester có phân tử khối nhỏ thường là chất lỏng, dễ bay hơi.
-
-### 3.2. Độ tan và nhiệt độ sôi
-
-Ester thường:
-
-- Ít tan trong nước.
-- Nhẹ hơn nước.
-- Có nhiệt độ sôi thấp hơn acid carboxylic có phân tử khối tương đương.
-
-Nguyên nhân:
-
-- Ester không có nhóm `-OH` của acid nên không tạo liên kết hydrogen mạnh giữa các phân tử ester với nhau.
-- Vì vậy lực hút giữa các phân tử yếu hơn acid carboxylic.
+- Mùi thơm hoa quả đặc trưng, an toàn (hương liệu). 
+VD: `CH3COOCH2-CH2-CH(CH3)-CH3`  
+  → Isoamyl acetate: mùi chuối chín. `CH3COOCH2C6H5`  
+  → Benzyl acetate: mùi hoa nhài.
+  → Ethyl butyrate, ethyl propionate: mùi thơm của dứa
+- Lỏng or rắn
+- Ít tan or ko tan trong nước, nhẹ hơn nước
+- Thứ tự nhiệt độ sôi:
+Muối > Acid > Alcohol > Amine > Ester, Aldehyde, Ketone > ... > Hydrocarbon.
 
 ---
 
-## 4. Tính chất hóa học của ester
+## 4. Tính chất hóa học
 
-## 4.1. Phản ứng thủy phân trong môi trường acid
+Khi xét tính chất hóa học của một chất ta đi từ cấu tạo đầu tiên. Cấu tạo ester tạo bởi sự ghép nối giữa 2 thành phần là acid và alcohol.
 
-Phản ứng tổng quát:
+## 4.1. Phản ứng thủy phân cơ bản
 
-$$
-\mathrm{RCOO}R' + \mathrm{H_2O}
-\rightleftharpoons
-\mathrm{RCOOH} + R'\mathrm{OH}
-$$
+- Môi trường acid ($H^+$)
 
-Đặc điểm:
+```math
+\mathrm{RCO|OR' + H_2O \xrightleftharpoons[\,t^\circ\,]{\,H^+\,} RCOOH + R'OH}
+```
 
-- Có xúc tác acid, thường là $\mathrm{H_2SO_4}$ loãng.
-- Là phản ứng thuận nghịch.
-- Sản phẩm gồm acid carboxylic và alcohol.
+   Có xúc tác acid, thường là $\mathrm{H_2SO_4}$ loãng.
+   Là phản ứng thuận nghịch.
+   Sản phẩm gồm acid carboxylic và alcohol.
 
 Ví dụ:
 
@@ -199,21 +187,17 @@ $$
 \mathrm{CH_3COOH + C_2H_5OH}
 $$
 
-### 4.2. Phản ứng thủy phân trong môi trường kiềm - xà phòng hóa
-
-Phản ứng tổng quát:
+- Môi trường kiềm (Phản ứng xà phòng hóa)
 
 $$
-\mathrm{RCOO}R' + \mathrm{NaOH}
+\mathrm{RCO|O}R' + \mathrm{NaOH}
 \rightarrow
 \mathrm{RCOONa} + R'\mathrm{OH}
 $$
 
-Đặc điểm:
-
-- Phản ứng một chiều.
-- Sản phẩm tạo muối carboxylate và alcohol.
-- Đây là phản ứng quan trọng nhất khi giải bài tập ester.
+1 COO thường cần 1 NaOH
+Phản ứng một chiều.
+Sản phẩm tạo muối carboxylate và alcohol.
 
 Ví dụ:
 
@@ -223,91 +207,113 @@ $$
 \mathrm{CH_3COONa + C_2H_5OH}
 $$
 
-### 4.3. Ester của phenol
+Bên cạnh phản ứng đến từ cấu tạo ta cũng xét các ngoại lệ nhưng rất quan trọng
 
-Với ester có dạng:
+### 4.2. Ester của phenol
 
-$$
-\mathrm{RCOOC_6H_5}
-$$
+- Ester phenol = nhóm -COO- với O gắn với vòng benzen
 
-Khi phản ứng với NaOH dư, thường cần 2 mol NaOH cho 1 mol ester:
+- Thủy phân trong môi trường acid:
 
-$$
-\mathrm{RCOOC_6H_5 + 2NaOH}
-\rightarrow
-\mathrm{RCOONa + C_6H_5ONa + H_2O}
-$$
+```math
+\mathrm{RCO|OC_6H_5 + HOH \xrightarrow{t^\circ} RCOOH + C_6H_5OH}
+```
 
-Dấu hiệu nhận biết:
+```math
+\mathrm{RCO|OC_6H_4R' + HOH \xrightarrow{t^\circ} RCOOH + R'C_6H_4OH}
+```
 
-- Sau thủy phân có muối phenolate $\mathrm{C_6H_5ONa}$.
-- Có thể xuất hiện hai muối thay vì một muối và một alcohol thông thường.
+Phản ứng một chiều vì sản phẩm không phản ứng ngược lại vì phenol có tính acid không phản ứng với acid.
 
-### 4.4. Ester có gốc hydrocarbon không no
+- Thủy phân trong môi trường kiềm:
+```math
+\mathrm{RCOOC_6H_5 + 2NaOH \xrightarrow{t^\circ} RCOONa + C_6H_5ONa + H_2O}
+```
 
-Nếu ester có liên kết đôi $\mathrm{C=C}$ ở gốc hydrocarbon thì có thể tham gia phản ứng cộng.
+```math
+\mathrm{RCOOC_6H_4R' + 2NaOH \xrightarrow{t^\circ} RCOONa + R'C_6H_4ONa + H_2O}
+```
 
-Ví dụ phản ứng cộng bromine:
+1 COO phenol cần 2 NaOH
+Sau thủy phân có muối phenolate $\mathrm{C_6H_5ONa}$.
+Xuất hiện 2 muối và H2O.
 
-$$
-\mathrm{R{-}CH{=}CH_2 + Br_2}
-\rightarrow
-\mathrm{R{-}CHBr{-}CH_2Br}
-$$
+### 4.4. Ester tạo sản phẩm không bền
 
-Dấu hiệu trong đề:
+- Tạo aldehyde
 
-- Làm mất màu dung dịch bromine.
-- Có phản ứng cộng $\mathrm{H_2}$, $\mathrm{Br_2}$, hoặc $\mathrm{KMnO_4}$ tùy cấu trúc.
+```math
+\mathrm{RCOO{-}C{=}C{-}R' + H_2O}
+\mathrm{\rightarrow RCOOH + HO{-}C{=}C{-}R'}
+```
+
+Không tồn tại C không no đính với -OH nên chuyển nối đôi sang chỗ C-O
+
+```math
+\mathrm{HO{-}C{=}C{-}R' \rightarrow O{=}CH{-}C{-}R'}
+```
+
+Hay viết tương đương:
+
+```math
+\mathrm{O{=}CH{-}C{-}R' \Leftrightarrow R'{-}C{-}CHO}
+```
+Tổng kết: 
+
+```math
+\mathrm{RCOO{-}C{=}C{-}R' + H_2O}
+\mathrm{\rightarrow RCOOH + R'{-}C{-}CHO}
+```
+- Tạo ketone:
+
+```math
+\mathrm{RCOO{-}C(R_1){=}C{-}R_2 + H_2O}
+```
+
+```math
+\mathrm{\rightarrow RCOOH + HO{-}C(R_1){=}C{-}R_2}
+```
+
+Không tồn tại C không no đính với -OH nên chuyển nối đôi sang chỗ C-O
+
+```math
+\mathrm{HO{-}C(R_1){=}C{-}R_2 \rightarrow O{=}C(R_1){-}C{-}R_2}
+```
+
+### 4.5. Tính chất của chức:
+
+- HCOOR' vẫn màn tính chất của aldehyde vì có -CHO
+- Phản ứng trùng hợp tạo thủy tinh hữu cơ:
+
+```math
+\mathrm{nCH_2{=}C(CH_3){-}COOCH_3 \xrightarrow{t^\circ}
+\left[-CH_2{-}C(CH_3)(COOCH_3)-\right]_n}
+```
+ `CH2=C(CH3)-COOCH3`: **Methyl methacrylate**
+ Sản phẩm: **Polymethyl methacrylate**, còn gọi là **thủy tinh hữu cơ**
 
 ---
 
 ## 5. Điều chế ester
 
-### 5.1. Phản ứng ester hóa
+- Ester tạo bởi acid và alcohol tương ứng: (phản ứng ester hóa)
 
-Phản ứng tổng quát:
+```math
+\mathrm{RCO|OH + R'O|H \xrightleftharpoons[\,t^\circ\,]{\,H^+\,} RCOOR' + H_2O}
+```
 
-$$
-\mathrm{RCOOH} + R'\mathrm{OH}
-\rightleftharpoons
-\mathrm{RCOO}R' + \mathrm{H_2O}
-$$
+Lưu ý:
+- Dùng acid, alcohol nồng độ cao
+- Hiệu suất cao tương ứng cân bằng dịch chuyển theo chiều thuận nên có thể
+  - Dùng dư acid hoặc alcohol
+  - Dùng H2SO4 đặc để xúc tác và hút nước 
+- Tách ester bằng pp chiết. Để phân lớp rõ ràng cho thêm vài ml NaCl bão hoàn (vài ml nước lạnh) (Tăng D H2O)
 
-Điều kiện thường gặp:
+- Phản ứng tạo vinyl ester từ acid carboxylic và acetylene
 
-- Xúc tác $\mathrm{H_2SO_4}$ đặc.
-- Đun nóng.
-- Phản ứng thuận nghịch.
-
-Ví dụ:
-
-$$
-\mathrm{CH_3COOH + C_2H_5OH}
-\rightleftharpoons
-\mathrm{CH_3COOC_2H_5 + H_2O}
-$$
-
-### 5.2. Cách tăng hiệu suất ester hóa
-
-Vì phản ứng ester hóa là phản ứng thuận nghịch, muốn tăng hiệu suất tạo ester có thể:
-
-- Dùng dư acid hoặc dư alcohol.
-- Tách nước ra khỏi hỗn hợp phản ứng.
-- Tách ester ra khỏi hỗn hợp phản ứng nếu phù hợp.
-
-### 5.3. Một số hướng điều chế đặc biệt
-
-Một số ester đặc biệt có thể điều chế từ:
-
-- Acid chloride và alcohol/phenol.
-- Anhydride acid và alcohol/phenol.
-- Phản ứng cộng giữa acid và alkyne trong một số trường hợp đặc biệt.
+```math
+\mathrm{RCOOH + CH{\equiv}CH \xrightarrow[(t^\circ)]{(CH_3COO)_2Zn} RCOO{-}CH{=}CH_2}
+```
 
 ---
-
-
--
-
 
